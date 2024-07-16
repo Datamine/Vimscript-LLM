@@ -1,0 +1,4 @@
+hello world
+
+this will eventually house all the documentation
+reminder: use claude to generate it
